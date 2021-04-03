@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **joydeb1999217@gmail.com**
 
-
+<img align="right" width=400px src="https://github.com/CyraX-Joy/CyraX-Joy/blob/main/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/joydeb63284114" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="joydeb63284114" height="30" width="40" /></a>
