@@ -1,3 +1,4 @@
+![alt text](https://images.app.goo.gl/HVESLVDBZZT2Fh9x5)
 - 👋 Hi, I’m @CyraX-Joy
 - 👀 I’m interested in Developing Products, Open Source and Competitive Programming
 - 🌱 I’m currently learning CP and Software Development
