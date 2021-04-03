@@ -9,7 +9,7 @@ CyraX-Joy/CyraX-Joy is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Joy deb</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full stack Web developer. Right now a beginner ; )</h3>
 
 <p align="left"> <a href="https://twitter.com/joydeb63284114" target="blank"><img src="https://img.shields.io/twitter/follow/joydeb63284114?logo=twitter&style=for-the-badge" alt="joydeb63284114" /></a> </p>
 
