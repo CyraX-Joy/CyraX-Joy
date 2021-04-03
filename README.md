@@ -1,4 +1,4 @@
-![alt text](https://images.app.goo.gl/HVESLVDBZZT2Fh9x5)
+![alt text](https://github.com/CyraX-Joy/CyraX-Joy/blob/main/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
 - 👋 Hi, I’m @CyraX-Joy
 - 👀 I’m interested in Developing Products, Open Source and Competitive Programming
 - 🌱 I’m currently learning CP and Software Development
