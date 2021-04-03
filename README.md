@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CyraX-Joy
 - 👀 I’m interested in Developing Products, Open Source and Competitive Programming
 - 🌱 I’m currently learning CP and Software Development
-- 💞️ I’m looking to collaborate on My Current Project
+- 💞️ I’m looking to collaborate on any project related to Web development
 - 📫 How to reach me mail me @ Joydeb1999217@gmail.com
 
 <!---
