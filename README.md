@@ -1,9 +1,5 @@
 ![alt text](https://github.com/CyraX-Joy/CyraX-Joy/blob/main/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
-- 👋 Hi, I’m @CyraX-Joy
-- 👀 I’m interested in Developing Products, Open Source and Competitive Programming
-- 🌱 I’m currently learning CP and Software Development
-- 💞️ I’m looking to collaborate on any project related to Web development
-- 📫 How to reach me mail me @ Joydeb1999217@gmail.com
+
 
 <!---
 CyraX-Joy/CyraX-Joy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
